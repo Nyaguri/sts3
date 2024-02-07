@@ -1,0 +1,5 @@
+package com.icia.movieinfo.util;
+
+public class PaginUtil {
+
+}

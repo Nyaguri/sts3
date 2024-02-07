@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="movieInfo"/>
+<aop-project name="spring-jsp01"/>
+<aop-project name="spring-jsp02"/>
+<aop-project name="spring-first"/>
+</aop-reference-model>

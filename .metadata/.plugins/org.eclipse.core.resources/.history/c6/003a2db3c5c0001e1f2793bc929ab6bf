@@ -1,0 +1,6 @@
+prefix + 파일명 + suffix
+
+-> /WEB-INF/views/home.jsp
+
+RequestMapping과 GetMapping/PostMapping의 차이
+- RequestMapping은 
